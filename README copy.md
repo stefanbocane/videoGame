@@ -1,4 +1,3 @@
-# videoGame
 Project Title: Enlighten
 
 Simple overview of use/purpose: Allows students to request help on assignments, and others to respond. Simple App
